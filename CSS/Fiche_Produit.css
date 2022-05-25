@@ -1,0 +1,93 @@
+
+
+.Fiche_Produit_Titre{
+
+    background-color: #000000;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    font-family: "Agency FB";
+    text-align: center;
+
+}
+
+
+
+.Image2{
+    height: 500px;
+    width: 350px;
+
+}
+
+.Cadre_Produit2{
+    margin-bottom: 100px;
+    margin-top: -250px;
+    height: 500px;
+    width: 350px;
+    border:3px solid #01162d;
+    margin-left: 300px;
+}
+
+.Nom2
+{
+    font-size: larger;
+}
+
+.Prix2
+{
+
+    background-color: #000000;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    font-family: "Agency FB";
+    text-align: center;
+    display: block;
+
+}
+
+.Editeur2
+{
+    background-color: #000000;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    font-family: "Agency FB";
+    text-align: center;
+    display: block;
+
+}
+
+
+.Genre2
+{
+    background-color: #000000;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    font-family: "Agency FB";
+    text-align: center;
+    display: block;
+
+}
+
+
+
+.Achat
+{
+    background-color: midnightblue;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+
+}
